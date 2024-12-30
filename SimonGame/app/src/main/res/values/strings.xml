@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Simon Game</string>
-
-
-    <string name="Start">Start</string>
-    <string name="hint">Enter your username</string>
-
-
-</resources>
