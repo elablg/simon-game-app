@@ -1,0 +1,4 @@
+<resources>
+    <string name="send">Send Message</string>
+    <string name="hint">Enter a message</string>
+</resources>

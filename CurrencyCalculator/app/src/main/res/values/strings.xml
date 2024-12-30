@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Currency Calculator</string>
+    <string name="editText_text">Enter the TL amount</string>
+    <string name="button_text">Calculate</string>
+    <string-array name="currency_option_array">
+    <item>Dollar(US)</item>
+    <item>Euro(EUR)</item>
+    <item>Naira(NGN)</item>
+    <item>Yuan(CNY)</item>
+    <item>Won(KRW)</item>
+    <item>Baht(THB)</item>
+    </string-array>
+</resources>
